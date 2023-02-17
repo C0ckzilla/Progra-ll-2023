@@ -21,3 +21,6 @@ Update para mayor facilidad: La función solo debe de regresar el número de vel
 Función velas(velasCompletas, Residuos) -> velasFinales
 velas(4,2) el resultado debe ser 7
 
+
+HACERLO EN C TAMBIEN
+
